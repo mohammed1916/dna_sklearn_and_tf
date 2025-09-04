@@ -1,0 +1,6 @@
+{
+  "model_name": "RidgeClassifier",
+  "saved_at": "2025-09-03T16:54:07.609823Z",
+  "sklearn_version": "1.6.1",
+  "model_params": "{'alpha': 1.0, 'class_weight': None, 'copy_X': True, 'fit_intercept': True, 'max_iter': None, 'positive': False, 'random_state': None, 'solver': 'auto', 'tol': 0.0001}"
+}

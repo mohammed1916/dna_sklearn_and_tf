@@ -1,0 +1,6 @@
+{
+  "model_name": "CatBoostClassifier",
+  "saved_at": "2025-09-03T17:07:43.238909Z",
+  "sklearn_version": "1.6.1",
+  "model_params": "{'verbose': 0}"
+}

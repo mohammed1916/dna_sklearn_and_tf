@@ -1,0 +1,6 @@
+{
+  "model_name": "LabelSpreading",
+  "saved_at": "2025-09-03T17:09:37.621102Z",
+  "sklearn_version": "1.6.1",
+  "model_params": "{'alpha': 0.2, 'gamma': 20, 'kernel': 'rbf', 'max_iter': 30, 'n_jobs': None, 'n_neighbors': 7, 'tol': 0.001}"
+}

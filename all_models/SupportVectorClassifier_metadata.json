@@ -1,0 +1,6 @@
+{
+  "model_name": "SupportVectorClassifier",
+  "saved_at": "2025-09-03T17:06:16.878960Z",
+  "sklearn_version": "1.6.1",
+  "model_params": "{'C': 1.0, 'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decision_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': -1, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}"
+}

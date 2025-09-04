@@ -1,0 +1,6 @@
+{
+  "model_name": "LogisticRegression_Smoke",
+  "saved_at": "2025-09-03T18:09:25.380745Z",
+  "sklearn_version": "1.6.1",
+  "model_params": "{'C': 1.0, 'class_weight': None, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 200, 'multi_class': 'deprecated', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}"
+}

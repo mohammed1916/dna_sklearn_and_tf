@@ -1,0 +1,6 @@
+{
+  "model_name": "PassiveAggressiveClassifier",
+  "saved_at": "2025-09-03T16:54:08.209187Z",
+  "sklearn_version": "1.6.1",
+  "model_params": "{'C': 1.0, 'average': False, 'class_weight': None, 'early_stopping': False, 'fit_intercept': True, 'loss': 'hinge', 'max_iter': 1000, 'n_iter_no_change': 5, 'n_jobs': None, 'random_state': None, 'shuffle': True, 'tol': 0.001, 'validation_fraction': 0.1, 'verbose': 0, 'warm_start': False}"
+}

@@ -1,0 +1,6 @@
+{
+  "model_name": "KNeighborsClassifier",
+  "saved_at": "2025-09-03T16:55:16.288073Z",
+  "sklearn_version": "1.6.1",
+  "model_params": "{'algorithm': 'auto', 'leaf_size': 30, 'metric': 'euclidean', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}"
+}
